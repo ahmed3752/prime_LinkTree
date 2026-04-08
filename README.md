@@ -21,7 +21,7 @@ A beautiful, high-performance, open-source Linktree clone built with the modern 
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/yourusername/prime-linktree.git
+git clone https://github.com/ahmed3752/prime-linktree.git
 cd prime-linktree
 npm install
 ```
